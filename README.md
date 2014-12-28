@@ -1,7 +1,7 @@
 wxget
 =====
-Intended to create a minimal and lightweight method for checking local weather via linux shell.
-A script currently provides this functionality.
+Intended to provide a minimal and lightweight method for checking local weather via linux shell.
+A tiny script currently provides this functionality.
 
 The only requirements are that wget and less are installed on your system (if you don't know 
 what these are, they already are)
