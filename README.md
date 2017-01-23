@@ -4,7 +4,7 @@ Intended to provide a minimal and lightweight method for checking local weather 
 A tiny script currently provides this functionality.
 
 The only requirements are that wget and less are installed on your system (if you don't know 
-what these are, they already are)
+what these are, they are already installed)
 
 SETUP:
 =====
