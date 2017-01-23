@@ -17,5 +17,5 @@ ROUNDUP="http://tgftp.nws.noaa.gov/data/observations/state_roundup/$STATE/$STATE
 ZONE="http://tgftp.nws.noaa.gov/data/forecasts/zone/$STATE/$STATE""z$NOAAZONE.txt"
 
 clear;
-echo "CursorDown to continue, 'q' to quit"; sleep .9; clear;
+echo "'down' for more, 'q' to quit"; sleep .9; clear;
 wget -q -O - $ROUNDUP $ZONE | less
