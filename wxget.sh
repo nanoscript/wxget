@@ -1,4 +1,4 @@
-#!/bin/sh                                                                                                                               
+#!/bin/sh
 
 
 # wxget, a simple command line utility for displaying your local weather on a command line output
